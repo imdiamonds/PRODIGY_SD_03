@@ -8,4 +8,6 @@ should also allow users to view their
 contact list, edit existing contacts, and
 delete contacts if needed. The program
 should store the contacts in memory or in
-a file for persistent storage
+a file for persistent storage.
+
+(indexing of contacts start from 0 onwards.)
