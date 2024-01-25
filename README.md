@@ -11,3 +11,4 @@ should store the contacts in memory or in
 a file for persistent storage.
 
 (indexing of contacts start from 0 onwards.)
+(the contacts save in a txt file named contact.txt)
